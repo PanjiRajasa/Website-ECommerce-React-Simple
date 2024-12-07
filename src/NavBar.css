@@ -1,0 +1,4 @@
+/* Styling untuk navbar item yang aktif */
+.active-link, .navbar-brand-bold {
+    font-weight: bold;
+}
